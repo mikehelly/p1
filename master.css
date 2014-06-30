@@ -1,10 +1,19 @@
 .portrait {
 	position:absolute;
-	left:0px;
+	left:100px;
+	top:35px;
 }
 
 .questions {
 	position:absolute;
-	left:520px;
-	width:500px;
+	left:420px;
+	width:700px;
+}
+
+h1 {
+	font-family: 'Muli', sans-serif;
+}
+
+h3 {
+	font-family: 'Muli', sans-serif;
 }
