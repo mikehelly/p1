@@ -1,4 +1,15 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head>
+	
+	<title>Mike Helly</title>
+
+	<link href="master.css" rel="stylesheet" type="text/css">
+</head>
+
 <h1>Mike Helly</h1>
+<img class="portrait" src="http://mikehelly.com/p1_image.jpg" />
 <p>My name is Mike and I am a graphic designer who is interested in learning code</p>
 <h3>Why are you taking this course?</h3>
 <p>Knowing how to code on top of making things look nice will make me the ultimate destroyer.</p>
