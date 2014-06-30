@@ -1,4 +1,9 @@
 .portrait {
 	position:absolute;
-	left:10px;
+	left:0px;
+}
+
+.questions {
+	position:absolute;
+	left:520px;
 }

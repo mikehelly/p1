@@ -7,9 +7,10 @@
 
 	<link href="master.css" rel="stylesheet" type="text/css">
 </head>
-
+<body>
 <h1>Mike Helly</h1>
 <img class="portrait" src="http://mikehelly.com/p1_image.jpg" />
+<div class="questions">
 <p>My name is Mike and I am a graphic designer who is interested in learning code</p>
 <h3>Why are you taking this course?</h3>
 <p>Knowing how to code on top of making things look nice will make me the ultimate destroyer.</p>
@@ -23,3 +24,6 @@
 <p>MAC</p>
 <h3>Anything else we should now?</h3>
 <p>Yell at me if it seems like I'm getting lazy.</p>
+</div>
+</body>
+</html>
