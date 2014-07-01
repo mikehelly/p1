@@ -8,7 +8,7 @@
 	<title>Mike Helly</title>
 </head>
 <body>
-<img class="portrait" src="p1_image2.jpg" />
+<p><img class="portrait" alt="Mike Helly" src="p1_image2.jpg" /></p>
 <div class="questions">
 <h1>Mike Helly</h1>
 <p>My name is Mike and I am a graphic designer at Boston Web Group. My interests include skateboarding and typography.</p>
