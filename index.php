@@ -3,9 +3,9 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en">
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<link href="master.css" rel="stylesheet" type="text/css" />
+	<link href='http://fonts.googleapis.com/css?family=Muli' rel='stylesheet' type='text/css' />
 	<title>Mike Helly</title>
-	<link href="master.css" rel="stylesheet" type="text/css">
-	<link href='http://fonts.googleapis.com/css?family=Muli' rel='stylesheet' type='text/css'>
 </head>
 <body>
 <img class="portrait" src="p1_image2.jpg" />
