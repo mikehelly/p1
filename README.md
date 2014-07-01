@@ -1,6 +1,6 @@
 # P1
 
-this is my first project for DWA
+This is my first project for DWA. It is a q&a created using github and jumpstarter.io. 
 
 added an index.php file so it would display at http://pjisrf.onjumpstarter.io/
 
