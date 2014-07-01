@@ -10,7 +10,7 @@
 <img class="portrait" src="p1_image2.jpg" />
 <div class="questions">
 <h1>Mike Helly</h1>
-<p>My name is Mike and I am a graphic designer at Boston Web Group. My interests include skateboarding, typography and the Wu Tang Clan.</p>
+<p>My name is Mike and I am a graphic designer at Boston Web Group. My interests include skateboarding and typography.</p>
 <h3>Why are you taking this course?</h3>
 <p>I've been interested in learning how to do some more server-side coding for awhile. I think it would be an awesome skill to have.</p>
 <h3>What previous experience do you have with HTML/CSS?</h3>
